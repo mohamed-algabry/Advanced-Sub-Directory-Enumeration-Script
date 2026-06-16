@@ -61,7 +61,11 @@ Recommended wordlists:
 ```bash
 /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt
 /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt
+/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 /usr/share/seclists/Discovery/Web-Content/common.txt
+/usr/share/wordlists/dirb/common.txt
+/usr/share/dirb/wordlists/common.txt
+/usr/share/wordlists/dirb/common.txt
 ```
 
 ---
